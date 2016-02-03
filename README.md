@@ -1,2 +1,2 @@
 # TechDocs
-Document for Tech
+* See wiki page : https://github.com/zzragida/TechDocs/wiki
